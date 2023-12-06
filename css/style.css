@@ -1,0 +1,138 @@
+
+section {
+    padding: 40px 0px;
+}
+
+
+
+
+
+.slider,
+footer {
+    background-color: #FAE6E5;
+}
+
+.price {
+    color: #FF136F;
+}
+
+.btn-slider {
+    background: #FF136F;
+    padding: 10px 30px;
+    border-radius: 30px;
+    border: none;
+    color: white;
+}
+
+
+
+.cate-padding {
+    padding: 10px 30px;
+}
+
+.watch {
+    background: #FFA500;
+}
+
+.bag {
+    background-color: purple;
+}
+
+.shoes {
+    background-color: blue;
+}
+
+.watch img {
+    width: 100px;
+}
+
+.bag img {
+    width: 110px;
+}
+
+.shoes img {
+    width: 100px;
+}
+
+
+
+.card {
+    box-shadow: 0px 5px 17px;
+    padding: 10px;
+}
+
+
+
+
+@media(min-width: 992px) and (max-width: 1199px) {
+
+}
+
+@media(min-width: 768px) and (max-width: 991px) {
+ 
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+
+  
+    .watch {
+        margin-top: 20px;
+    }
+
+    .bag {
+        margin-top: 20px;
+    }
+
+    .shoes {
+        margin-top: 20px;
+    }
+
+    .card {
+        margin-top: 20px;
+
+    }
+
+}
+
+@media (min-width: 0px) and (max-width: 575px) {
+
+ 
+    .watch {
+        margin-top: 20px;
+    }
+
+    .card {
+        margin-top: 20px;
+
+    }
+
+    .bag {
+        margin-top: 20px;
+    }
+
+    .shoes {
+        margin-top: 20px;
+    }
+}
+
+
+
+
+
+
+
+
+.box {
+    width: 30%;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.box img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
